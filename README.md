@@ -1,2 +1,2 @@
 # phpapp
-A demp application
+A demo application
